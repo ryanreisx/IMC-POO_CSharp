@@ -1,0 +1,8 @@
+C:\Users\Ryan\source\repos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\Ryan\source\repos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Ryan\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Ryan\source\repos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\Ryan\source\repos\IMC\IMC\obj\Debug\IMC.pdb
